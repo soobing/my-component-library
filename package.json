@@ -1,8 +1,8 @@
 {
-  "name": "@receter/my-component-library",
-  "author": "Andreas Riedmüller",
+  "name": "soobing-component-library",
+  "author": "soobing",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.5",
   "type": "module",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/receter/my-component-library"
+    "url": "https://github.com/soobing/my-component-library"
   },
   "sideEffects": [
     "**/*.css"
